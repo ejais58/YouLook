@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "143550805428",
+    "project_id": "lookappoficial-98fc6",
+    "storage_bucket": "lookappoficial-98fc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143550805428:android:b2b84485fa04c498112ee1",
+        "android_client_info": {
+          "package_name": "com.empresadeapp.youlook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143550805428-kfsulb4apbc6t5edd95ipq9s1c7j9acl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMI1RoSWKWU3tm2vFqxk3rAmD9ND2Up-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143550805428-kfsulb4apbc6t5edd95ipq9s1c7j9acl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
